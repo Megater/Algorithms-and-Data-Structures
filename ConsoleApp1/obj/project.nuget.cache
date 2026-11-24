@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuuPOLontsE=",
+  "success": true,
+  "projectFilePath": "/home/mateusz/Projects/Algorythmic reasoning/Test/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/mateusz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
