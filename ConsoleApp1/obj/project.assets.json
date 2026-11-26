@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateusz/Projects/Algorythmic reasoning/Test/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/mateusz/Projects/Algorithms-and-Data-Structures/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/mateusz/Projects/Algorythmic reasoning/Test/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/mateusz/Projects/Algorithms-and-Data-Structures/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/mateusz/.nuget/packages/",
-      "outputPath": "/home/mateusz/Projects/Algorythmic reasoning/Test/ConsoleApp1/obj/",
+      "outputPath": "/home/mateusz/Projects/Algorithms-and-Data-Structures/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateusz/.nuget/NuGet/NuGet.Config"

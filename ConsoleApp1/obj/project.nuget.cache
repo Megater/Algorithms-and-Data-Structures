@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VuuPOLontsE=",
+  "dgSpecHash": "VLPLOPU87b8=",
   "success": true,
-  "projectFilePath": "/home/mateusz/Projects/Algorythmic reasoning/Test/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/home/mateusz/Projects/Algorithms-and-Data-Structures/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "/home/mateusz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
   ],
