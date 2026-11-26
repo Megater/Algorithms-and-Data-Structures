@@ -66,10 +66,19 @@ Console.WriteLine();
 Console.WriteLine(Module_third.BinarySearch(arr_sort, 5));
 
 //Module 4
-
+Console.WriteLine();
 //Task 9
-Module_fourth.BubbleSort(arr);
-foreach(int i in arr)
+int[] new_arr = arr;
+Module_fourth.BubbleSort(new_arr);
+foreach(int i in new_arr)
+{
+    Console.Write(i);
+}
+
+Console.WriteLine();
+int[] new_arr2 = arr;
+Module_fourth.SelectionSort(new_arr2);
+foreach(int i in new_arr2)
 {
     Console.Write(i);
 }
